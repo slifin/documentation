@@ -17,8 +17,7 @@ Catching errors early can be a game-changer when you're knee-deep in Clojure dev
 
 1. Open a terminal window and run the following command:
 
-   ```
-   bashCopy code
+   ```bash
    brew install borkdude/brew/clj-kondo
    ```
 
@@ -30,8 +29,7 @@ For Linux installation, please refer to the [official `clj-kondo` GitHub reposit
 
 After installation, you can verify that `clj-kondo` is correctly installed by running:
 
-```
-bashCopy code
+```bash
 clj-kondo --version
 ```
 
