@@ -1,6 +1,6 @@
-# Welcome to Your Clojure Journey!
+# Clojure for Beginners
 
-Hello there! If you're coming from other programming languages and stepping into the intriguing world of Clojure for the first time, you're in the right place. Below, you'll find a series of guides aimed to take you from a Clojure novice to a confident coder.
+Hello and welcome! If you're new to Clojure and are coming from another programming language, you're in the right place. Here we have a collection of articles to help you get familiar with Clojure development, especially with the Cursive plugin in IntelliJ IDEA.
 
 ## Table of Contents
 
@@ -12,3 +12,5 @@ Hello there! If you're coming from other programming languages and stepping into
   Step-by-step guidance for installing clj-kondo and the Clojure Extras plugin on IntelliJ IDEA, aimed at helping you catch errors early in the development process.
 - [Mastering Parentheses in Clojure with Paredit and Parinfer](./Mastering-Parentheses-in-Clojure-with-Paredit-and-Parinfer.md)
   Manage parentheses effectively in your Clojure code with Paredit and Parinfer in IntelliJ IDEA's Cursive plugin.
+- [Understanding Clojure Project Structures, Namespaces, and Testing](./Understanding-Clojure-Project-Structures-Namespaces-and-Testing.md)
+  Gain insights into the standard directory structures, how namespaces work, and how to run tests in REPL using Cursive.
