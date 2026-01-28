@@ -113,7 +113,7 @@ My gut says I will need to maintain two situations in my application:
 
 I'm a strong believer as programmers we do not store enough information generally speaking and its holding us back from implementing incredible things.
 
-I will 100% get the schema wrong and will need to change it so I want to keep payload tables immutable and unopinionated about any schema whilst my derived tables can evolve and spread as need be
+I will 100% get the schema wrong and will need to change it so I want to keep payload tables immutable and unopinionated about any schema whilst my derived tables can evolve and spread as need be.
 
 #### Advertising
 
